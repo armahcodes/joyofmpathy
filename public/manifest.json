@@ -1,0 +1,18 @@
+{
+  "name": "Empathy - 7 Day Challenge",
+  "short_name": "Empathy",
+  "description": "Transform your life in 7 days. Discover the path from suffering to joy through ancient Tibetan wisdom and modern neuroscience.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "https://2rdt098dpqdmx48s.public.blob.vercel-storage.com/Empathy_Logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
