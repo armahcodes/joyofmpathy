@@ -29,7 +29,7 @@ export function Footer() {
         <VStack gap={10}>
           {/* Logo */}
           <Image
-            src="/empathy_logo.png"
+            src="https://2rdt098dpqdmx48s.public.blob.vercel-storage.com/Empathy_Logo.png"
             alt="Empathy - A Hero's Journey"
             h={{ base: '50px', md: '60px' }}
             objectFit="contain"
